@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# ficheros de entorno (usar los .env.example incluidos en el repo)
+.env
+**/.env
+
+# temporales
+*.log
